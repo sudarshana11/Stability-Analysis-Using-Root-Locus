@@ -8,6 +8,8 @@ Computer with MATLAB software
 <img width="554" height="1280" alt="image" src="https://github.com/user-attachments/assets/070dd1ee-b9b5-46cf-bea1-aed33bf000f4" />
 <img width="695" height="1280" alt="image" src="https://github.com/user-attachments/assets/3190bd96-7478-4809-9459-553b29874ae9" />
 
+<img width="901" height="1519" alt="image" src="https://github.com/user-attachments/assets/9807ede4-0697-4bd6-810f-eda13cfaaa61" />
+
 <img width="676" height="889" alt="image" src="https://github.com/user-attachments/assets/1f8a6fd3-4f38-4c6d-beaa-db70bafc9e7e" />
 
 
